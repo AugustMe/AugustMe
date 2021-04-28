@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### AugustMe 😄
+### Welcome, please star if you like me !!! 😄
 
 ![](https://komarev.com/ghpvc/?username=AugustMe&color=yellowgreen)
 
